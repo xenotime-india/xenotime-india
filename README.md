@@ -1,24 +1,65 @@
-👋 Hi, I'm Sandeep Kumar
+<h1 align="center">Sandeep Kumar</h1>
 
-💻 Experienced Software Engineer with a strong focus on web development, passionate about building robust and scalable web applications using cutting-edge technologies and best practices.
+<p align="center">
+  <strong>Salesforce &amp; Heroku Architect · Co-founder of <a href="https://cloudalgo.com">CloudAlgo</a></strong><br/>
+  16+ years shipping enterprise systems. 70+ projects delivered on Salesforce and the platforms around it.
+</p>
 
-✨ I take pride in writing high-quality, maintainable, and user-centric software solutions that deliver value to users and businesses alike.
-
-🚀 Always eager to learn and explore new challenges, I'm constantly expanding my skills to stay at the forefront of the ever-evolving tech landscape.
-
-🔗 Let's build something amazing together!
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/xenotime/) 
-
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Apollo-GraphQL](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gulp](https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xenotime-india&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=xenotime-india&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xenotime-india&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://xenotime-india.github.io/">Résumé</a> ·
+  <a href="https://xenotime-india.github.io/resume.pdf">Download CV (PDF)</a> ·
+  <a href="https://www.linkedin.com/in/xenotime/">LinkedIn</a> ·
+  <a href="https://cloudalgo.com/case-studies/">Case studies</a> ·
+  <a href="mailto:sandeepkhoj@gmail.com">Email</a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xenotime-india&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## What I do
+
+Bring me an org that has outgrown its build, an integration nobody wants to own, or a platform that needs its first design. I scope it, build it with a small CloudAlgo team, and hand it over documented.
+
+- **Salesforce architecture and code.** Data models, sharing, governor-limit-safe Apex, Lightning Web Components, Salesforce DX and GitHub Actions CI/CD.
+- **Integrations that stop re-keying.** MuleSoft, MuleSoft RPA, and REST/SOAP layers between Salesforce and ERP, NetSuite, EMR, Office 365 and identity systems.
+- **Heroku, web and mobile products.** Node.js and React portals, React Native and native iOS apps, wired to exactly the Salesforce data they need.
+- **Data pipelines and cloud.** Airflow medallion pipelines and AWS (Lambda, Fargate, Cognito, S3, RDS) that bring CRM and ERP data together in minutes.
+- **Fractional architect.** Design and pull request reviews, release oversight and mentoring for in-house teams.
+
+## Work that shipped
+
+| Client | What I built | Result |
+|---|---|---|
+| Multi-division manufacturer | Airflow medallion pipeline replacing the CRM-to-ERP nightly batch | 12–24 h latency → under 15 min |
+| Eli Lilly | LillyNow intranet on Node.js, React and Contentful (Heroku) | 80+ portals replaced, 40,000 employees in 120 countries |
+| At-home diagnostics platform | MuleSoft layer across patient portal, Salesforce and logistics | Kit status in the portal within 5 min |
+| Traction on Demand | Traction REC, a Salesforce-native recreation management product | Greenfield product, packaged for customer orgs |
+| Wholesale distributor | Salesforce ↔ NetSuite order and invoice integration | 0 orders typed in twice |
+| Paediatric therapy clinic | Heroku sync between Salesforce and an EMR with no API | 0 records re-entered by hand |
+| BMC Software | MyEBC iOS app in Swift, backed by a Salesforce Community | Sole developer, design to App Store |
+| Align Technology | Bidirectional Office 365 ↔ Salesforce calendar sync | Global sales team on one calendar |
+
+Also delivered for Teva Pharmaceutical, Logitech, Lids, Experian, Kimberly-Clark, IBM, Mesh01, Aegerion and Nightingale Conant. Full list on the [résumé](https://xenotime-india.github.io/).
+
+## Stack
+
+**Salesforce** · Apex · Lightning Web Components · Sales Cloud · Service Cloud · Experience Cloud · Salesforce DX  
+**Integration** · MuleSoft · MuleSoft RPA · REST / SOAP  
+**Backend & cloud** · Node.js · TypeScript · Heroku · AWS (Lambda, Fargate, Cognito, S3, RDS) · Apache Airflow · PostgreSQL · MongoDB · Redis  
+**Frontend & mobile** · React · Next.js · React Native · Swift (iOS)
+
+Eight Salesforce certifications, including Integration Architecture Designer, Sharing and Visibility Designer and Platform Developer II.
+
+## How an engagement runs
+
+1. **Intro call.** Thirty minutes on what you want and what is in the way. If CloudAlgo is not the right fit, I will say so.
+2. **Scope and estimate.** I read the org, talk to the people who use it, and return a written scope with risks.
+3. **Build in sprints.** Two-week sprints with a working demo at the end of each.
+4. **Hand over.** Documentation, CI/CD, test coverage, a walkthrough for your team, then hypercare.
+
+Contracts, NDAs and invoices run through CloudAlgo in USD or EUR. Remote from Jaipur, India (IST, UTC+5:30) with regular overlap with US and European hours.
+
+## Get in touch
+
+Have a Salesforce problem worth a thirty-minute call? [Email me](mailto:sandeepkhoj@gmail.com) or [message me on LinkedIn](https://www.linkedin.com/in/xenotime/).
+
+Off the keyboard: tabletop gaming, video games and travel.
