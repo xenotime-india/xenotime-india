@@ -40,6 +40,17 @@ Bring me an org that has outgrown its build, an integration nobody wants to own,
 
 Also delivered for Teva Pharmaceutical, Logitech, Lids, Experian, Kimberly-Clark, IBM, Mesh01, Aegerion and Nightingale Conant. Full list on the [résumé](https://xenotime-india.github.io/).
 
+## Open source and tooling
+
+| Repo | What it is |
+|---|---|
+| [forcekit](https://github.com/xenotime-india/forcekit) | CLI that scans Apex, Visualforce and Lightning code for quality issues before review. `npm install -g forcekit` |
+| [SFDC-ValidationFramework](https://github.com/xenotime-india/SFDC-ValidationFramework) | Lightweight Apex framework for declarative form and record validation, about 1,500 lines including built-in extensions |
+| [force.com-chrome-ext](https://github.com/xenotime-india/force.com-chrome-ext) | Chrome extension that generates `package.xml` for Salesforce metadata deployments |
+| [chrome-ext-sfdc-generate-test-data](https://github.com/xenotime-india/chrome-ext-sfdc-generate-test-data) | Chrome extension for generating test data straight into a Salesforce org |
+| [SFDC-Heroku-Connect](https://github.com/xenotime-india/SFDC-Heroku-Connect) | Docker-based reference setup for syncing Salesforce data to Postgres with Heroku Connect |
+| [xenotime-india.github.io](https://github.com/xenotime-india/xenotime-india.github.io) | This résumé site: Astro, nine switchable themes, PDFs rendered by Puppeteer in GitHub Actions |
+
 ## Stack
 
 **Salesforce** · Apex · Lightning Web Components · Sales Cloud · Service Cloud · Experience Cloud · Salesforce DX  
